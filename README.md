@@ -1,3 +1,3 @@
 # verba
 
-Webisite made for online shop
+Webisite made for online shop 'Verba'
